@@ -1,0 +1,30 @@
+User-agent: *
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+User-agent: NaverBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Daumoa
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+Sitemap: https://douceur-1tv.pages.dev/sitemap.xml
+Sitemap: https://douceur-1tv.pages.dev/sitemap-fast.xml
+Sitemap: https://douceur-1tv.pages.dev/sitemap-hub.xml
+Sitemap: https://douceur-1tv.pages.dev/sitemap-image.xml
+Sitemap: https://douceur-1tv.pages.dev/sitemap-1.xml
+Sitemap: https://douceur-1tv.pages.dev/sitemap-2.xml
+Sitemap: https://douceur-1tv.pages.dev/sitemap-3.xml
+Sitemap: https://douceur-1tv.pages.dev/sitemap-4.xml
+Sitemap: https://douceur-1tv.pages.dev/rss.xml
